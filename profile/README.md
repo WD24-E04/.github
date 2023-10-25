@@ -1,6 +1,6 @@
 
 
-![The Future is Digital!](./images/blue-banner.jpg)
+![The Future is Digital!](images/blue-banner.jpg)
 
 
 # Welcome to DCI GitHub Organization
