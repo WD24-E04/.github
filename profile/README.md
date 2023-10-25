@@ -1,4 +1,10 @@
-# Welcome to Digital Career Institute GitHub Organization
+
+
+![The Future is Digital!](./images/blue-banner.jpg)
+
+
+# Welcome to DCI GitHub Organization
+---
 
 ## About Digital Career Institute
 
