@@ -13,7 +13,7 @@ We extend a warm welcome to you as you embark on your web development journey at
 
 ## Code of Conduct
   ### 🤝 - Respectful Communication: 
-    > Students should communicate respectfully with both instructors and fellow classmates. This includes using polite language, avoiding offensive or discriminatory remarks, and being mindful of cultural differences.
+  > Students should communicate respectfully with both instructors and fellow classmates. This includes using polite language, avoiding offensive or discriminatory remarks, and being mindful of cultural differences.
 
   ### ⏰ - Punctuality and Attendance:
   > Students are expected to attend online classes punctually and participate actively. If they are unable to attend a session, they should inform the instructor in advance.
