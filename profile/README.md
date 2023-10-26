@@ -33,7 +33,7 @@ We extend a warm welcome to you as you embark on your web development journey at
 
 ## Comprehensive Learning Module Series:
 
-#### 1. Basic Digital Literacy - [Github](https://github.com/FBW-23-E10/Basic-Digital-Literacy)
+#### 1. Basic Digital Literacy - [Github Link](https://github.com/FBW-23-E10/Basic-Digital-Literacy)
 
 - Comprehensive introduction to web development, Linux, and Git.
 - Covers web basics, Linux commands, Git collaboration, and practical GitHub experience.
