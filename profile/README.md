@@ -37,6 +37,8 @@ We extend a warm welcome to you as you embark on your web development journey at
 - Covers web basics, Linux commands, Git collaboration, and practical GitHub experience.
 - Includes technical setup, terminal commands, Markdown, and version control workflows, essential for modern software development.
 
+<br />
+
 #### 2. User Interface Basics
 
   - **Introduction to Web Development Tools:**
@@ -52,6 +54,8 @@ We extend a warm welcome to you as you embark on your web development journey at
     - Basic CSS styling, including inline, internal, and external approaches
     - Understanding CSS selectors, properties, and values
     - Introduction to responsive design principles, media queries, and fluid sizing
+
+<br />
 
 #### 3. Programming Basics
 
@@ -71,6 +75,7 @@ We extend a warm welcome to you as you embark on your web development journey at
     - Working with objects, accessing properties, object scope, methods, and object iteration.
     - Array methods, converting between arrays and strings, and handling user input.
 
+<br />
 
 #### 4. Single Page Application
 
@@ -98,6 +103,7 @@ We extend a warm welcome to you as you embark on your web development journey at
     - Combining useReducer and useContext for state management.
     - Exploring unique IDs, memoization, and advanced deployment techniques.
 
+<br />
 
 #### 5. Backend Development
 
