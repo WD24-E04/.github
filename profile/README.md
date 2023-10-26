@@ -8,6 +8,7 @@
 Digital Career Institute (DCI) is a vibrant learning community dedicated to empowering individuals with digital skills and fostering innovation in technology. We provide comprehensive and hands-on training programs to equip our students with the knowledge and expertise needed for successful careers in the digital world.
 
 We extend a warm welcome to you as you embark on your web development journey at DCI. Here, you're not just learners; you're creators, innovators, and future leaders of the digital landscape. As you dive into the world of coding, creativity, and problem-solving, know that you're supported by a community dedicated to your success. Embrace the challenges, collaborate with your peers, and let your passion drive your learning. Together, we'll unlock the boundless possibilities of web development. Welcome aboard!
+
 <br />
 
 ## Code of Conduct
