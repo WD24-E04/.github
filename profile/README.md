@@ -1,6 +1,6 @@
 
 
-![The Future is Digital!](images/blue-banner.jpg)
+![The Future is Digital!](https://github.com/FBW-23-E10/.github/blob/main/profile/images/blue-banner.jpg)
 
 
 # Welcome to Web-Development Course 🤗
