@@ -13,22 +13,22 @@ We extend a warm welcome to you as you embark on your web development journey at
 
 ## Code of Conduct
   ### 🤝 - Respectful Communication: 
-  >- Students should communicate respectfully with both instructors and fellow classmates. This includes using polite language, avoiding offensive or discriminatory remarks, and being mindful of cultural differences.
+  > Students should communicate respectfully with both instructors and fellow classmates. This includes using polite language, avoiding offensive or discriminatory remarks, and being mindful of cultural differences.
 
   ### ⏰ - Punctuality and Attendance:
-  >- Students are expected to attend online classes punctually and participate actively. If they are unable to attend a session, they should inform the instructor in advance.
+  > Students are expected to attend online classes punctually and participate actively. If they are unable to attend a session, they should inform the instructor in advance.
 
   ### ✋ - Engagement and Participation:
-  >- Active participation is encouraged. Students should engage in discussions, ask questions, and collaborate with classmates. Inactive participation, such as being consistently silent during discussions, is discouraged.
+  > Active participation is encouraged. Students should engage in discussions, ask questions, and collaborate with classmates. Inactive participation, such as being consistently silent during discussions, is discouraged.
 
   ### 👔 - Professionalism:
-  >- Students should maintain professionalism during online classes, just as they would in a physical classroom. This includes dressing appropriately, being mindful of background noise and surroundings, and muting microphones when not speaking.
+  > Students should maintain professionalism during online classes, just as they would in a physical classroom. This includes dressing appropriately, being mindful of background noise and surroundings, and muting microphones when not speaking.
 
   ### 👂 - Participation Etiquette:
-  >- When participating in discussions or group activities, students should wait for their turn to speak, avoid interrupting others, and actively listen to their peers. Constructive criticism is encouraged, but it should be conveyed respectfully.
+  > When participating in discussions or group activities, students should wait for their turn to speak, avoid interrupting others, and actively listen to their peers. Constructive criticism is encouraged, but it should be conveyed respectfully.
 
   ### ✅ - Feedback and Conflict Resolution:
-  >- Encourage students to provide feedback about the course structure and content. If you have concerns or conflicts, you should address them promptly and professionally with the instructor. Open communication is key to resolving issues effectively.
+  > Encourage students to provide feedback about the course structure and content. If you have concerns or conflicts, you should address them promptly and professionally with the instructor. Open communication is key to resolving issues effectively.
 <br />
 
 ## Comprehensive Learning Module Series:
