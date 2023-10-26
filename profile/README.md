@@ -28,7 +28,6 @@ We extend a warm welcome to you as you embark on your web development journey at
 
   >### ✅ - Feedback and Conflict Resolution:
   - Encourage students to provide feedback about the course structure and content. If you have concerns or conflicts, you should address them promptly and professionally with the instructor. Open communication is key to resolving issues effectively.
-
 <br />
 
 ## Comprehensive Learning Module Series:
