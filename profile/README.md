@@ -64,23 +64,23 @@ We extend a warm welcome to you as you embark on your web development journey at
 
 <div class="modules-container">
     <div class="module">
-        <img src="./images/terminal.svg" alt="Icon" width="25" height="25" />
+        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/terminal.svg" alt="Icon" width="25" height="25" />
         <span><a href="https://github.com/FBW-23-E10/Basic-Digital-Literacy">BDL</a></span>
     </div>
     <div class="module">
-        <img src="./images/monitor.svg" alt="Icon 2" width="25" height="25" />
+        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/monitor.svg" alt="Icon 2" width="25" height="25" />
         <span><a href="https://github.com/FBW-23-E10/User-Interface-Basics">UIB</a></span>
     </div>
     <div class="module">
-        <img src="./images/code.svg" alt="Icon 3" width="25" height="25" />
+        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/code.svg" alt="Icon 3" width="25" height="25" />
         <span><a href="https://github.com/FBW-23-E10/Programming-Basics">PB</a></span>
     </div>
     <div class="module">
-        <img src="./images/shopping-bag.svg" alt="Icon 3" width="25" height="25" />
+        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/shopping-bag.svg" alt="Icon 3" width="25" height="25" />
         <span><a href="https://github.com/FBW-23-E10/Single-Page-Applications">SPA</a></span>
     </div>
     <div class="module">
-        <img src="./images/server.svg" alt="Icon 4" width="25" height="25" />
+        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/server.svg" alt="Icon 4" width="25" height="25" />
         <span><a href="https://github.com/FBW-23-E10/Backend">Backend</a></span>
     </div>
 </div>
