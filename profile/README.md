@@ -50,7 +50,7 @@ We extend a warm welcome to you as you embark on your web development journey at
 <br />
 
 
-#### 2. User Interface Basics
+#### 2. User Interface Basics - [Github Link](https://github.com/FBW-23-E10/User-Interface-Basics)
 
   - **Introduction to Web Development Tools:**
     - Setting up HTML documents, browsers, and VSCode
@@ -67,7 +67,7 @@ We extend a warm welcome to you as you embark on your web development journey at
     - Introduction to responsive design principles, media queries, and fluid sizing
 <br />
 
-#### 3. Programming Basics
+#### 3. Programming Basics - [Github Link](https://github.com/FBW-23-E10/Programming-Basics)
 
   - **Introduction and Basics:**
     - Understanding programming languages, JavaScript's history, and its role in front-end and back-end development.
@@ -86,7 +86,7 @@ We extend a warm welcome to you as you embark on your web development journey at
     - Array methods, converting between arrays and strings, and handling user input.
 <br />
 
-#### 4. Single Page Application
+#### 4. Single Page Application - [Github Link](https://github.com/FBW-23-E10/Single-Page-Applications)
 
   - **JavaScript Basics and DOM Manipulation:**
     - Introduction to JavaScript in the browser environment.
@@ -113,7 +113,7 @@ We extend a warm welcome to you as you embark on your web development journey at
     - Exploring unique IDs, memoization, and advanced deployment techniques.
 <br />
 
-#### 5. Backend Development
+#### 5. Backend Development - [Github Link](https://github.com/FBW-23-E10/Backend)
 
   - **Introduction to Backend Development:**
     - Understanding the server as a program and the server-client concept.
