@@ -1,55 +1,9 @@
 
-  <style>
-    .modules-container{
-    display: flex; 
-    justify-content: space-around; 
-    flex-wrap: wrap;
-    align-items: center;
-    font-size:1.2rem;
-
-    }
-
-    .module{
-      box-sizing: border-box;
-      display: flex; 
-      align-items:center;
-      justify-content: center;
-      gap:0.7rem
-      border: none;
-      background-color: rgba(100, 130, 100, 0.7);
-      border-radius: 5px;
-      width: 140px;
-      margin-bottom: 1rem;
-    }
-
-    .module:hover{
-      background-color: rgba(100, 200, 100, 0.7);
-      cursor: pointer;
-    }
-
-    .module img{
-      padding: 0.5rem;
-      fill: white;
-    }
-
-    .module span{
-      padding-right: 0.5rem;
-    }
-
-    .module span a{
-      color: #bbc;
-      
-    }
-    .module span a:visited{
-      color: #bbc;
-
-    }
-    .module span a:hover{
-      color: #bbc;
-
-    }
-
-  </style>
+<html>
+  <head>
+    <link type="stylesheet" rel="./style.css"></link>
+  </head>
+  <body>
 
 ![The Future is Digital!](https://github.com/FBW-23-E10/.github/blob/main/profile/images/blue-banner.jpg)
 
@@ -85,9 +39,6 @@ We extend a warm welcome to you as you embark on your web development journey at
     </div>
 </div>
 
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
 
 ## Code of Conduct
   ### 🤝 - Respectful Communication: 

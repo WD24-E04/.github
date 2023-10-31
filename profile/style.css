@@ -1,3 +1,51 @@
 
 
 
+    .modules-container{
+    display: flex; 
+    justify-content: space-around; 
+    flex-wrap: wrap;
+    align-items: center;
+    font-size:1.2rem;
+
+    }
+
+    .module{
+      box-sizing: border-box;
+      display: flex; 
+      align-items:center;
+      justify-content: center;
+      gap:0.7rem
+      border: none;
+      background-color: rgba(100, 130, 100, 0.7);
+      border-radius: 5px;
+      width: 140px;
+      margin-bottom: 1rem;
+    }
+
+    .module:hover{
+      background-color: rgba(100, 200, 100, 0.7);
+      cursor: pointer;
+    }
+
+    .module img{
+      padding: 0.5rem;
+      fill: white;
+    }
+
+    .module span{
+      padding-right: 0.5rem;
+    }
+
+    .module span a{
+      color: #bbc;
+      
+    }
+    .module span a:visited{
+      color: #bbc;
+
+    }
+    .module span a:hover{
+      color: #bbc;
+
+    }
