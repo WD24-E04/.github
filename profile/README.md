@@ -16,28 +16,7 @@ We extend a warm welcome to you as you embark on your web development journey at
 
 <br />
 
-<div class="modules-container">
-    <div class="module">
-        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/terminal.svg" width="25" height="25" />
-        <span><a href="https://github.com/FBW-23-E10/Basic-Digital-Literacy">BDL</a></span>
-    </div>
-    <div class="module">
-        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/monitor.svg" width="25" height="25" />
-        <span><a href="https://github.com/FBW-23-E10/User-Interface-Basics">UIB</a></span>
-    </div>
-    <div class="module">
-        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/code.svg" width="25" height="25" />
-        <span><a href="https://github.com/FBW-23-E10/Programming-Basics">PB</a></span>
-    </div>
-    <div class="module">
-        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/shopping-bag.svg" width="25" height="25" />
-        <span><a href="https://github.com/FBW-23-E10/Single-Page-Applications">SPA</a></span>
-    </div>
-    <div class="module">
-        <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/server.svg" width="25" height="25" />
-        <span><a href="https://github.com/FBW-23-E10/Backend" style="text-decoration: none;color:blue">Backend</a></span>
-    </div>
-</div>
+💻 [BDL](https://github.com/FBW-23-E10/Basic-Digital-Literacy) &nbsp;&nbsp;&nbsp;&nbsp;🎨 [UIB](https://github.com/FBW-23-E10/User-Interface-Basics) &nbsp;&nbsp;&nbsp;&nbsp;📚 [PB](https://github.com/FBW-23-E10/Programming-Basics) &nbsp;&nbsp;&nbsp;&nbsp;🕸️ [SPA](https://github.com/FBW-23-E10/Single-Page-Applications) &nbsp;&nbsp;&nbsp;&nbsp;☁️ [BE](https://github.com/FBW-23-E10/Backend)
 
 
 ## Code of Conduct
