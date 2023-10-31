@@ -62,7 +62,11 @@ We extend a warm welcome to you as you embark on your web development journey at
 
 <br />
 
-<div class="modules-container">
+<div class="modules-container" style="display: flex; 
+    justify-content: space-around; 
+    flex-wrap: wrap;
+    align-items: center;
+    font-size:1.2rem;">
     <div class="module">
         <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/terminal.svg" alt="Icon" width="25" height="25" />
         <span><a href="https://github.com/FBW-23-E10/Basic-Digital-Literacy">BDL</a></span>
