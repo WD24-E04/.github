@@ -1,5 +1,5 @@
 
-  <style>
+  <!-- <style>
     .modules-container{
     display: flex; 
     justify-content: space-around; 
@@ -49,7 +49,7 @@
 
     }
 
-  </style>
+  </style> -->
 
 ![The Future is Digital!](https://github.com/FBW-23-E10/.github/blob/main/profile/images/blue-banner.jpg)
 
