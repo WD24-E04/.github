@@ -85,7 +85,9 @@ We extend a warm welcome to you as you embark on your web development journey at
     </div>
 </div>
 
-<button class="button">click me</button>
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 
 ## Code of Conduct
   ### 🤝 - Respectful Communication: 
