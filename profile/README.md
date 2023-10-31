@@ -35,7 +35,7 @@ We extend a warm welcome to you as you embark on your web development journey at
     </div>
     <div class="module">
         <img src="https://github.com/FBW-23-E10/.github/blob/main/profile/images/server.svg" width="25" height="25" />
-        <span><a href="https://github.com/FBW-23-E10/Backend">Backend</a></span>
+        <span><a href="https://github.com/FBW-23-E10/Backend" style="text-decoration: none">Backend</a></span>
     </div>
 </div>
 
