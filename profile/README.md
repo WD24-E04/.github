@@ -1,4 +1,55 @@
 
+  <style>
+    .modules-container{
+    display: flex; 
+    justify-content: space-around; 
+    flex-wrap: wrap;
+    align-items: center;
+    font-size:1.2rem;
+
+    }
+
+    .module{
+      box-sizing: border-box;
+      display: flex; 
+      align-items:center;
+      justify-content: center;
+      gap:0.7rem
+      border: none;
+      background-color: rgba(100, 130, 100, 0.7);
+      border-radius: 5px;
+      width: 140px;
+      margin-bottom: 1rem;
+    }
+
+    .module:hover{
+      background-color: rgba(100, 200, 100, 0.7);
+      cursor: pointer;
+    }
+
+    .module img{
+      padding: 0.5rem;
+      fill: white;
+    }
+
+    .module span{
+      padding-right: 0.5rem;
+    }
+
+    .module span a{
+      color: #bbc;
+      
+    }
+    .module span a:visited{
+      color: #bbc;
+
+    }
+    .module span a:hover{
+      color: #bbc;
+
+    }
+
+  </style>
 
 ![The Future is Digital!](https://github.com/FBW-23-E10/.github/blob/main/profile/images/blue-banner.jpg)
 
@@ -10,6 +61,30 @@ Digital Career Institute (DCI) is a vibrant learning community dedicated to empo
 We extend a warm welcome to you as you embark on your web development journey at DCI. Here, you're not just learners; you're creators, innovators, and future leaders of the digital landscape. As you dive into the world of coding, creativity, and problem-solving, know that you're supported by a community dedicated to your success. Embrace the challenges, collaborate with your peers, and let your passion drive your learning. Together, we'll unlock the boundless possibilities of web development. Welcome aboard!
 
 <br />
+
+<div class="modules-container">
+    <div class="module">
+        <img src="./images/terminal.svg" alt="Icon" width="25" height="25" />
+        <span><a href="https://github.com/FBW-23-E10/Basic-Digital-Literacy">BDL</a></span>
+    </div>
+    <div class="module">
+        <img src="./images/monitor.svg" alt="Icon 2" width="25" height="25" />
+        <span><a href="https://github.com/FBW-23-E10/User-Interface-Basics">UIB</a></span>
+    </div>
+    <div class="module">
+        <img src="./images/code.svg" alt="Icon 3" width="25" height="25" />
+        <span><a href="https://github.com/FBW-23-E10/Programming-Basics">PB</a></span>
+    </div>
+    <div class="module">
+        <img src="./images/shopping-bag.svg" alt="Icon 3" width="25" height="25" />
+        <span><a href="https://github.com/FBW-23-E10/Single-Page-Applications">SPA</a></span>
+    </div>
+    <div class="module">
+        <img src="./images/server.svg" alt="Icon 4" width="25" height="25" />
+        <span><a href="https://github.com/FBW-23-E10/Backend">Backend</a></span>
+    </div>
+</div>
+
 
 ## Code of Conduct
   ### 🤝 - Respectful Communication: 
@@ -31,7 +106,7 @@ We extend a warm welcome to you as you embark on your web development journey at
   > Encourage students to provide feedback about the course structure and content. If you have concerns or conflicts, you should address them promptly and professionally with the instructor. Open communication is key to resolving issues effectively.
 <br />
 
-## Comprehensive Learning Module Series:
+## Comprehensive Learning Module Series 📚
 
 #### 1. Basic Digital Literacy - [Github Link](https://github.com/FBW-23-E10/Basic-Digital-Literacy)
 
@@ -39,6 +114,7 @@ We extend a warm welcome to you as you embark on your web development journey at
 - Covers web basics, Linux commands, Git collaboration, and practical GitHub experience.
 - Includes technical setup, terminal commands, Markdown, and version control workflows, essential for modern software development.
 <br />
+
 
 #### 2. User Interface Basics
 
@@ -131,6 +207,7 @@ We extend a warm welcome to you as you embark on your web development journey at
     - Implementing email verification using SendGrid API, TypeScript fundamentals, and project ideas for practical application.
 
 
+
 We are excited to have you on this learning journey with us. Together, we will explore the fascinating world of digital technology and create a future filled with innovation and opportunities.
 
 Happy coding!
@@ -148,3 +225,7 @@ Happy coding!
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+</body>
+</html>
