@@ -4,7 +4,7 @@
   </head>
   <body>
 
-![The Future is Digital!](https://github.com/WD24-E04/.github/blob/main/images/blue-banner.jpg)
+![The Future is Digital!](https://github.com/WD24-E04/.github/blob/main/profile/images/blue-banner.jpg)
 
 # Welcome to Web-Development Course 🤗
 
