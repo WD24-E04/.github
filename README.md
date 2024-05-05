@@ -4,7 +4,7 @@
   </head>
   <body>
 
-![The Future is Digital!](https://github.com/FBW-23-E10/.github/blob/main/profile/images/blue-banner.jpg)
+![The Future is Digital!](./images/blue-banner.jpg)
 
 # Welcome to Web-Development Course 🤗
 
@@ -47,14 +47,14 @@ We extend a warm welcome to you as you embark on your web development journey at
 
 ## Comprehensive Learning Module Series 📚
 
-#### 1. Basic Digital Literacy - [Github Link](https://github.com/FBW-23-E10/Basic-Digital-Literacy)
+#### 1. Basic Digital Literacy - [Github Link](https://github.com/WD24-E04/livecoding/tree/main/01-BDL)
 
 - Comprehensive introduction to web development, Linux, and Git.
 - Covers web basics, Linux commands, Git collaboration, and practical GitHub experience.
 - Includes technical setup, terminal commands, Markdown, and version control workflows, essential for modern software development.
   `<br />`
 
-#### 2. User Interface Basics - [Github Link](https://github.com/FBW-23-E10/User-Interface-Basics)
+#### 2. User Interface Basics - [Github Link](https://github.com/WD24-E04/livecoding/tree/main/02-UIB)
 
 - **Introduction to Web Development Tools:**
 
@@ -74,7 +74,7 @@ We extend a warm welcome to you as you embark on your web development journey at
   - Introduction to responsive design principles, media queries, and fluid sizing
     `<br />`
 
-#### 3. Programming Basics - [Github Link](https://github.com/FBW-23-E10/Programming-Basics)
+#### 3. Programming Basics - [Github Link](https://github.com/WD24-E04/livecoding/tree/main/03-PB)
 
 - **Introduction and Basics:**
 
@@ -97,7 +97,7 @@ We extend a warm welcome to you as you embark on your web development journey at
   - Array methods, converting between arrays and strings, and handling user input.
     `<br />`
 
-#### 4. Single Page Application - [Github Link](https://github.com/FBW-23-E10/Single-Page-Applications)
+#### 4. Single Page Application - [Github Link](https://github.com/WD24-E04/livecoding/tree/main/04-SPA)
 
 - **JavaScript Basics and DOM Manipulation:**
 
@@ -128,7 +128,7 @@ We extend a warm welcome to you as you embark on your web development journey at
   - Exploring unique IDs, memoization, and advanced deployment techniques.
     `<br />`
 
-#### 5. Backend Development - [Github Link](https://github.com/FBW-23-E10/Backend)
+#### 5. Backend Development - [Github Link](https://github.com/WD24-E04/livecoding/tree/main/05-BACKEND)
 
 - **Introduction to Backend Development:**
 
