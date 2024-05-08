@@ -12,13 +12,7 @@ Digital Career Institute (DCI) is a vibrant learning community dedicated to empo
 
 We extend a warm welcome to you as you embark on your web development journey at DCI. Here, you're not just learners; you're creators, innovators, and future leaders of the digital landscape. As you dive into the world of coding, creativity, and problem-solving, know that you're supported by a community dedicated to your success. Embrace the challenges, collaborate with your peers, and let your passion drive your learning. Together, we'll unlock the boundless possibilities of web development. Welcome aboard!
 
-<<<<<<< HEAD
 ### 💻 [BDL](https://github.com/FBW-23-E10/Basic-Digital-Literacy) &nbsp;&nbsp;&nbsp;&nbsp;🎨 [UIB](https://github.com/FBW-23-E10/User-Interface-Basics) &nbsp;&nbsp;&nbsp;&nbsp;📚 [PB](https://github.com/FBW-23-E10/Programming-Basics) &nbsp;&nbsp;&nbsp;&nbsp;🕸️ [SPA](https://github.com/FBW-23-E10/Single-Page-Applications) &nbsp;&nbsp;&nbsp;&nbsp;☁️ [BE](https://github.com/FBW-23-E10/Backend)
-=======
-<br />
-
-### 💻 [BDL](https://github.com/WD24-E04/livecoding/tree/main/01-BDL) &nbsp;&nbsp;&nbsp;&nbsp;🎨 [UIB](https://github.com/FBW-23-E10/User-Interface-Basics) &nbsp;&nbsp;&nbsp;&nbsp;📚 [PB](https://github.com/FBW-23-E10/Programming-Basics) &nbsp;&nbsp;&nbsp;&nbsp;🕸️ [SPA](https://github.com/FBW-23-E10/Single-Page-Applications) &nbsp;&nbsp;&nbsp;&nbsp;☁️ [BE](https://github.com/FBW-23-E10/Backend)
->>>>>>> a01197e1de16778c08337811be2e0723fff92be2
 
 ## Code of Conduct
 
